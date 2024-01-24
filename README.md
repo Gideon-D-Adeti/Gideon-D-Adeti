@@ -14,6 +14,7 @@
 📫 How to reach me ...
 - [LinkedIn](https://www.linkedin.com/in/gideon-d-adeti/)
 - [Twitter](https://twitter.com/Gideon_D_Adeti)
+- [Facebook](https://web.facebook.com/profile.php?id=61555633031816)
 
 😄 Pronouns: He/Him
 
