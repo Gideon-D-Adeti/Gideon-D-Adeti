@@ -1,6 +1,6 @@
-👋 Hi, I’m Gideon Delali Adeti, an aspiring Neural Engineer passionate about Science and Technology.
+👋 Hi, I’m Gideon Delali Adeti, an aspiring neural engineer passionate about science and technology.
 
-👀 Currently, I am exploring coding through freeCodeCamp’s core curriculum, honing my skills, and building a strong foundation in software development. 📚
+👀 Currently, I am exploring coding through freeCodeCamp’s core curriculum, honing my skills and building a strong foundation in software development.
 
 ⚡ Fun facts:
 - I enjoy freeride mountain biking and am working on mastering some basic skills like wheelie and manual.
