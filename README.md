@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gideon-D-Adeti?tab=repositories](https://github.com/Gideon-D-Adeti?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, and Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, and React.js**
 
 - 📫 How to reach me **gideondelaliadeti@gmail.com**
 
