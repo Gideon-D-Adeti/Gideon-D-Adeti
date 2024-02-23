@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gideon Delali Adeti</h1>
-<h3 align="center">An aspiring neural engineer with a wide range of interests spanning the fields of science, technology, and beyond.</h3>
+<h3 align="center">I have a wide range of interests spanning the fields of science, technology, and beyond.</h3>
 
 - 🌱 I’m currently learning **web development through freeCodeCamp's core curriculum**
 
